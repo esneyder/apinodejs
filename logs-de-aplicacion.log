@@ -1,0 +1,27 @@
+[2019-02-23 22:06:25] info: Hello distributed log files!
+[2019-02-23 22:06:25] info: hola
+[2019-02-23 22:06:25] error: se totio
+[2019-02-23 22:07:20] info: Hello distributed log files!
+[2019-02-23 22:07:20] info: Hola Soy winston
+[2019-02-23 22:07:20] warn: Hola Soy una advertencia
+[2019-02-23 22:07:20] error: Hola Soy un error
+[32minfo[39m: Hello distributed log files!
+[32minfo[39m: Hola Soy winston
+[33mwarn[39m: Hola Soy una advertencia
+[31merror[39m: Hola Soy un error
+[32minfo[39m: Hello distributed log files!
+[32minfo[39m: Hola Soy winston
+[33mwarn[39m: Hola Soy una advertencia
+[31merror[39m: Hola Soy un error
+[32minfo[39m: Hello distributed log files!
+[32minfo[39m: Hola Soy winston
+[33mwarn[39m: Hola Soy una advertencia
+[31merror[39m: Hola Soy un error
+[32minfo[39m: Hello distributed log files!
+[32minfo[39m: Hola Soy winston
+[33mwarn[39m: Hola Soy una advertencia
+[31merror[39m: Hola Soy un error
+[32minfo[39m: Hello distributed log files!
+[32minfo[39m: Hola Soy winston
+[33mwarn[39m: Hola Soy una advertencia
+[31merror[39m: Hola Soy un error
